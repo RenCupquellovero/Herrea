@@ -1,0 +1,14 @@
+{
+  "app_name": "Storage",
+  "base_prefix": "/str",
+  "public_api_prefix": "/api/public",
+  "admin_api_prefix": "/api/admin",
+
+  "users_dir": "data/users",
+  "database_path": "data/items.db",
+
+  "auth": {
+    "header_user": "X-User",
+    "header_pass": "X-Pass"
+  }
+}

@@ -1,0 +1,1 @@
+either delete example.json or edit it to be right (username has also to be the user's name, no spaces), as it could be used to login
