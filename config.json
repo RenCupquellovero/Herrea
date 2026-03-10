@@ -10,5 +10,12 @@
   "auth": {
     "header_user": "X-User",
     "header_pass": "X-Pass"
+  },
+
+  "webui": {
+    "root": "/",
+    "login": "/login",
+    "home": "/home",
+    "login_phrase": "Welcome to Herrea"
   }
 }
